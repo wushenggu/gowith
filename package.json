@@ -1,0 +1,26 @@
+{
+  "name": "gowith",
+  "version": "1.0.0",
+  "description": "常用js工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=10",
+    "pnpm": ">=3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wushenggu/gowith.git"
+  },
+  "author": "无声谷主",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wushenggu/gowith/issues"
+  },
+  "homepage": "https://github.com/wushenggu/gowith#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.25.2"
+  }
+}
